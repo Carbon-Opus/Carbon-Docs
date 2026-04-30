@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom CarbonOpus Brand Overrides */
+
+/* Make the logo display nicely */
+header img {
+  max-width: 200px;
+  border-radius: 8px; /* Slight rounding for a modern look */
+  margin-bottom: 20px;
+}
+
+/* Base link color (you can change this hex to your exact brand color) */
+a {
+  color: #00e676; /* Example: A vibrant green suitable for a music/web3 platform */
+}
+
+a:hover {
+  color: #00c853;
+}
+
+/* Emphasize important metrics like the 84-99% revenue share */
+strong {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+/* Custom button styling if we use them later */
+.btn {
+  background-color: #00e676;
+  color: #1a1a1a;
+  font-weight: bold;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #00c853;
+  color: #1a1a1a;
+}
