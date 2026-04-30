@@ -1,0 +1,14 @@
+{
+  "name": "@carbonopus/carbon-docs",
+  "private": true,
+  "type": "module",
+  "description": "Carbon Opus - Decentralized Music",
+  "version": "0.1.0",
+  "author": "Carbon Opus <carbonopus.com>",
+  "keywords": [],
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Carbon-Opus/Carbon-Docs.git"
+  }
+}

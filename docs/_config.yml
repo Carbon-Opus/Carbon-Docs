@@ -1,0 +1,21 @@
+title: CarbonOpus
+description: Official documentation and user guides for the CarbonOpus platform.
+theme: jekyll-theme-slate
+
+# Site settings
+logo: /assets/images/fun_logo.jpg
+favicon: /assets/images/favicon.ico
+show_downloads: false # Hides the "Download Zip" buttons
+
+# SEO & Meta
+twitter:
+  username: CarbonOpus
+github:
+  is_project_page: true
+  repository_url: https://github.com/Carbon-Opus/Carbon-Docs
+
+# Navigation (if switching to a theme that supports it natively, or for custom layouts later)
+header_pages:
+  - index.md
+  - ARTIST_GUIDE.md
+  - FAN_GUIDE.md
